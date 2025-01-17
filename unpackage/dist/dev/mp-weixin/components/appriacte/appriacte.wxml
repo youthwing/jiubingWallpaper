@@ -1,0 +1,1 @@
+<view class="box"><view class="name"><slot name="name"></slot></view><view class="appricate"><image src="{{a}}" mode="aspectFill"></image></view><view class="hphoto"><image src="{{b}}" mode="aspectFill"></image></view></view>

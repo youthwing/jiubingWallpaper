@@ -1,0 +1,1 @@
+{"version":3,"file":"classifylist.js","sources":["../../front/HBuilderX/plugins/uniapp-cli-vite/uniPage:/cGFnZXMvY2xhc3NpZnlsaXN0L2NsYXNzaWZ5bGlzdC52dWU"],"sourcesContent":["import MiniProgramPage from 'E:/JiuBingWallPaper/wallpaper/pages/classifylist/classifylist.vue'\nwx.createPage(MiniProgramPage)"],"names":[],"mappings":";;;;;;;;;;;;;AACA,GAAG,WAAW,eAAe;"}
